@@ -4,7 +4,7 @@
 
 ## Project Overview  
 
-This Power BI dashboard offers a detailed analysis of Dubai’s property market from 2018 to 2024. The dashboard presents key insights into revenue distribution, transaction types, property categories, and return on investment (ROI). It is intended to help investors, stakeholders, and tenants make data-driven decisions.
+This Power BI dashboard offers a detailed analysis of Dubai’s property market from 2018 to 2024. It presents key insights into revenue distribution, transaction types, property categories, and return on investment (ROI). The dashboard is intended to help investors, stakeholders, and tenants make data-driven decisions.
 
 ## Problem Statement
 
@@ -17,7 +17,7 @@ Dubai’s real estate market has been experiencing dynamic fluctuations influenc
 
 ## Skills/ Concepts Demonstrated
 
-The following Power BI features were incorporated and Figma was used to wireframe the dashboard:
+The following Power BI features were incorporated, and Figma was used to wireframe the dashboard:
 -	Bookmarking
 -	DAX,
 -	Quick measure,
@@ -40,7 +40,7 @@ The dataset for this analysis was sourced from **[Dubai Pulse](https://www.dubai
 
 ### Data Cleaning & Modelling
 
-Used Power Query to clean and structure data, handling missing values and inconsistencies. Summarized an average rent table from past project and merged it with existing table to project the annual ROI per property type accross all location. Established relationships between datasets (property type, transaction type, revenue, annual rent, ROI, and locations).
+Used Power Query to clean and structure data, handling missing values and inconsistencies. Summarised an average rent table from past projects and merged it with the existing table to project the annual ROI per property type across all locations. Established relationships between datasets (property type, transaction type, revenue, yearly rent, ROI, and locations).
 
 Generated Table                 |       Relationship
 :------------------------------:|:----------------------------------:
@@ -77,7 +77,9 @@ Highlights revenue distribution by property type, transaction group, and propert
 
 ___
 
-**You can interact with the Power BI Sales [Dashboard](https://app.powerbi.com/groups/me/reports/0564f6d4-cde5-414a-9414-a189f69555a6/285c4a78684ed7619f0e?experience=power-bi) for more insights and drill-down. Master Project, Area name and Year filter are available on the Dashboard to narrow down your search.**
+### Interactive Dashboard
+
+**You can interact with the Power BI Sales [Dashboard](https://app.powerbi.com/reportEmbed?reportId=0564f6d4-cde5-414a-9414-a189f69555a6&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7) for more insights and drill-down. Master Project, Area name and Year filter are available on the Dashboard to narrow down your search.**
 
 ## Key Insights
 
