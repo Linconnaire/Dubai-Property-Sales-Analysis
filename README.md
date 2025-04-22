@@ -79,7 +79,7 @@ ___
 
 ### Interactive Dashboard
 
-**You can interact with the Power BI Sales [Dashboard](https://app.powerbi.com/reportEmbed?reportId=0564f6d4-cde5-414a-9414-a189f69555a6&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7) for more insights and drill-down. Master Project, Area name and Year filter are available on the Dashboard to narrow down your search.**
+_You can interact with the Power BI Sales_ [Dashboard](https://app.powerbi.com/reportEmbed?reportId=0564f6d4-cde5-414a-9414-a189f69555a6&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7) for more insights and drill-down. Master Project, Area name and Year filter are available on the Dashboard to narrow down your search.
 
 ## Key Insights
 
